@@ -1827,7 +1827,7 @@ input, select, textarea {
 					background-color: #3C5A98;
 				}
 
-				ul.social li a.fa-dribbble {
+				ul.social li a.fa-file {
 					background-color: #C4376B;
 				}
 
@@ -1835,7 +1835,7 @@ input, select, textarea {
 					background-color: #006599;
 				}
 
-				ul.social li a.fa-tumblr {
+				ul.social li a.fa-envelope {
 					background-color: #51718A;
 				}
 
@@ -2221,7 +2221,7 @@ input, select, textarea {
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 600px) {
 
 		/* Articles */
 
@@ -2238,7 +2238,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 600px) {
 
 		/* Basic */
 
